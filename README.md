@@ -1,21 +1,47 @@
-# Post Redemption
+# 1. About Product
 
-## About Product
+## 1.1 Introduction
 
-This is a "trash" game, through "picking up garbage/ garbage classification/ garbage recycling" and other fun game process to guide users to understand the knowledge of garbage classification, leting people understand that garbage can also create new value, so as to promote the world environmental protection and sustainable development.
+This is a "trash " game, through "pick up garbage/ garbage classification/ garbage recycling" and other game processes to guide users to understand the knowledge of garbage classification and let people understand that garbage can also create new value, so as to promote the world environmental protection and sustainable development.
 
-Also, there will be lot of blockchain elements in it, like NFTs, tokens...etc. It's no surprise to find anything in the trash, right?
+## 1.2 Background Story 
 
-## What’s next
+After humans have ravaged the earth for thousands of years, they have finally succeeded in "transforming" the earth into a barren land: nuclear pollution, plastic waste, electronic fog, dust smog ... All the pollution crises you can think of are in this land.
+In this game you will play as a robot produced by the D.U.S.T -- dangerous union of science & technology, which were cast before the last humans left the earth, and in the vast years after humans left, you still faithfully perform your most core and most original work: resource recycling.
 
-We are building the first version of the product during the GR-14 hackathon. In future releases, we plan to build a 3D scene and incorporate AR/VR technology to show more gameplay. Also, we hope to cooperate with big brands that use recycled materials to produce their products, help them better practice sustainable development.
+# 2. Core Innovations (spotlight)
 
-## How to use grant
 
-We will use the grant to build our team and develop the product.
+# 3. What’s next
+- Add more different scenarios 
+- Improve the story line 
+- Combine with AR/VR and offline handcrafts 
+- Release NFTs and promote the game.
 
-## About Team
+# 4. Links 
 
-We now just build a small team for GR-14 hackathon. We have less than 10 people from more than 5 different regions/countries with different backgrounds. We hope to keep running our project after the hackathon and publish the game in next few months. 
-We may build a discord after the hackathon. However, you can follow us on Twitter.
+Github:
+
+Website:
+
+Demo Video:
+
+Presentation (Slidedeck) : 
+
+# 5. Contacts
+
+Twitter: @postredemption
+
+Discord: Kuannnn#9976
+
+Telegram：@kuankuan_0808
+
+Email：kuanthedev@gmail.com
+
+# 6. About Team
+We now just build a small team for the GR-14 hackathon. We have less than 10 people from more than 5 different regions/countries with different backgrounds. We hope to keep running our project after the hackathon and publish the game in the next few months.
 Together, we will build a great product and help make the earth a better greener place.
+
+# 7. Others 
+
+UnstoppableDomain registered account email address
